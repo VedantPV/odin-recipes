@@ -1,0 +1,21 @@
+.macbutton, 
+.waterbutton,
+.honeybutton {
+    text-align: center;
+    font-size: 30px;
+    margin: 0 auto;
+    display: block;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.macbutton {
+    background-color: rgb(221, 221, 60);
+}
+
+.waterbutton {
+    background-color: rgb(105, 212, 105);
+}
+
+.honeybutton {
+    background-color: azure;
+}
