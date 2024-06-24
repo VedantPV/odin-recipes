@@ -1,0 +1,22 @@
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    font-family: Georgia, sans-serif;
+
+}
+
+html {
+    text-align: center;
+    background-color: rgb(107, 218, 181);
+}
+
+ul {
+    background-color: aquamarine;
+}
+
+ol {
+    background-color: aqua;
+}

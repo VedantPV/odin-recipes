@@ -1,0 +1,27 @@
+img {
+    height: auto;
+}
+
+html {
+    text-align: center;
+    background-color: honeydew;
+
+}
+
+ul {
+    background-color: cadetblue;
+    color: white;
+}
+
+ol {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+}
+
+p {
+    font-size: 30px;
+}
