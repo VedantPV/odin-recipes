@@ -20,3 +20,9 @@ ul {
 ol {
     background-color: aqua;
 }
+
+button {
+    background-color: azure;
+    color: white;
+    font-size: 30px;
+}

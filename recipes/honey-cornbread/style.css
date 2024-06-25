@@ -25,3 +25,10 @@ h1 {
 p {
     font-size: 30px;
 }
+
+button {
+    text-align: left;
+    background-color: pink;
+    color: white;
+    font-size: 30px;
+}
