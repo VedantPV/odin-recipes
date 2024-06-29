@@ -3,20 +3,25 @@
 .honeybutton {
     text-align: center;
     font-size: 30px;
-    margin: 0 auto;
     display: block;
     font-family: 'Times New Roman', Times, serif
 }
 
 .macbutton {
+    margin: 0 auto;
+    padding: 20px;
     background-color: rgb(221, 221, 60);
 }
 
 .waterbutton {
+    margin: 0 auto;
+    padding: 20px;
     background-color: rgb(105, 212, 105);
 }
 
 .honeybutton {
+    margin: 0 auto;
+    padding: 30px;
     background-color: azure;
 }
 
