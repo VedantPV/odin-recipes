@@ -9,15 +9,48 @@ h1 {
 
 ul {
     background-color: burlywood;
+    padding: 10px;
+    margin: 0px;
+}
+
+ul li {
+    padding: 5px;
+    font-size: 18px;
+    
 }
 
 ol {
     background-color: rgb(173, 108, 27);
     color: white;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ol li {
+    background-color: rgb(173, 108, 27);
+    color: white;
+    padding: 5px;
+    font-size: 19px;
 }
 
 button {
     background-color: lightyellow;
     color: white;
     font-size: 30px;
+}
+
+p {
+    font-size: 22px;
+    display: block;
+
+}
+
+#divUL{
+    background-color: burlywood;
+
+}
+
+#divOL {
+    background-color: rgb(173, 108, 27);
+
 }

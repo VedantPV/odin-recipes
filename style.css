@@ -2,34 +2,41 @@
 .waterbutton,
 .honeybutton {
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     display: block;
     font-family: 'Times New Roman', Times, serif
+    
 }
 
 .macbutton {
     margin: 0 auto;
-    padding: 20px;
+    padding: 50px;
     background-color: rgb(221, 221, 60);
+    margin-bottom: 20px;
+    
 }
 
 .waterbutton {
     margin: 0 auto;
-    padding: 20px;
+    padding: 50px;
     background-color: rgb(105, 212, 105);
+    margin-bottom: 20px;
 }
 
 .honeybutton {
     margin: 0 auto;
-    padding: 30px;
+    padding: 50px;
     background-color: azure;
+    margin-bottom: 20px;
 }
 
 html {
-    background-color: aliceblue;
+    background-color: rgb(112, 162, 206);
 }
 
 h1 {
     text-align: center;
     font-family: Georgia, Times New Roman, Times, sans-serif;
+    margin-bottom: 150px;
+    font-size: 40px;
 }
